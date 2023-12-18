@@ -59,8 +59,8 @@ importers:
         specifier: 0.16.0
         version: 0.16.0
       get-port-please:
-        specifier: 3.0.2
-        version: 3.0.2
+        specifier: 3.1.1
+        version: 3.1.1
       husky:
         specifier: 8.0.3
         version: 8.0.3
@@ -4492,10 +4492,6 @@ packages:
 
   /get-func-name@2.0.2:
     resolution: {integrity: sha512-8vXOvuE167CtIc3OyItco7N/dpRtBbYOsPsXCz7X/PMnlGjYjSGuZJgM1Y7mmew7BKf9BqvLX2tnOVy1BBUsxQ==}
-    dev: true
-
-  /get-port-please@3.0.2:
-    resolution: {integrity: sha512-c14cAITf0E+uqdxGALvyYHwOL7UsnWcv3oDtgDAZksiVSGN87xlWVUWGZcmWQU3cICdaOxT+6LdQzUfK2ei1SA==}
     dev: true
 
   /get-port-please@3.1.1:
